@@ -10,10 +10,14 @@
   "private": true,
   "version": "1.7.1",
   "dependencies": {
-    "casper": "github:tryghost/Casper#2.1.0",
-    "ghost": "^1.8.0",
-    "ghost-storage-adapter-s3": "^2.3.0",
-    "mysql": "^2.14.1"
+    "@babel/core": "^7.0.0",
+    "casper": "github:tryghost/Casper#2.5.1",
+    "express": "^4.16.3",
+    "ghost": "^2.2.2",
+    "ghost-storage-adapter-s3": "^2.5.2",
+    "path": "^0.12.7",
+    "webpack": "^4.17.1",
+    "webpack-command": "^0.4.1"
   },
   "engines": {
     "node": "6.11.x"
